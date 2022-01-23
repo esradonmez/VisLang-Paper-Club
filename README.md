@@ -10,7 +10,7 @@ During the discussion:
 
 ## Next meetup's paper ##
 
-- [Date TBD] (Introductory reading) Shagun Uppal, Sarthak Bhagat, Devamanyu Hazarika, Navonil Majumder, Soujanya Poria, Roger Zimmermann, Amir Zadeh. Multimodal research in vision and language: A review of current and emerging trends, Information Fusion, Volume 77, 2022, Pages 149-171, ISSN 1566-2535 [Multimodal research in vision and language: A review of current andemerging trends](https://www.sciencedirect.com/science/article/pii/S1566253521001512). 
+- [25. Jan 2022] (https://meet.google.com/mfd-zquk-wti) (Introductory reading) Shagun Uppal, Sarthak Bhagat, Devamanyu Hazarika, Navonil Majumder, Soujanya Poria, Roger Zimmermann, Amir Zadeh. Multimodal research in vision and language: A review of current and emerging trends, Information Fusion, Volume 77, 2022, Pages 149-171, ISSN 1566-2535 [Multimodal research in vision and language: A review of current andemerging trends](https://www.sciencedirect.com/science/article/pii/S1566253521001512). 
 
 ## Supplementary material ##
 
